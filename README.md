@@ -144,4 +144,4 @@ Decision makers access important data quickly
 ChatGPT
 10. Screenshot
 How it is look like:
-https://github.com/vaibhavgupta700/Indian-States-2011-Dashboard/blob/main/Screenshot%202025-08-21%20225117.png
+Example: Dashborad (https://github.com/vaibhavgupta700/Indian-States-2011-Dashboard/blob/main/Screenshot%202025-08-21%20225117.png)
